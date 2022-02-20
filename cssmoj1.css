@@ -1,0 +1,30 @@
+.bmwslika1{
+padding: 20% 20%;
+}
+
+.bytonyladina1{
+	font-size: large;
+}
+.BEMBARAA{
+	width: 225px;
+	margin: auto;
+	font-size: 5em;
+	color: darkblue;
+	border-radius: 200px;
+	background-color: rgba(0,0,255, 0.23);
+}
+.dugmad1{
+	background-color: blue;
+	border-color: blue;
+}
+.dugmad1:Hover{
+	background-color: black;
+	border-color: black;
+}
+.kontenjer1{
+	margin: 100px 0px;
+}
+
+.kontenjer2{
+	margin: 150px 0px;
+}
